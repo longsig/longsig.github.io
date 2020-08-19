@@ -1,0 +1,58 @@
+div.mf
+{
+ position: absolute;
+ left: -200px;bottom: 20px;
+ height: 100px;
+ width: 220px;
+ background-color: rgb(210,210,210);
+ border-radius: 0px 5px 5px 0px;
+ transition: left 0.5s;
+ -webkit-transition: left 0.5s;
+}
+div.mf:hover
+{
+ left: 0px;
+}
+
+div.imf
+{
+ font-size: 30px;
+ position:absolute;
+ bottom: 3px;
+ text-align: center;
+}
+
+button.in
+{
+ border-radius: 100%;
+ background-color: rgba(256,256,256,1);
+ padding: 10px 12px 10px 12px;
+ border: none;
+}
+
+button.iin1
+{
+ background-color: rgba(0,0,0,0);
+ border: none;
+ position:absolute;
+ bottom: 3px;
+ right: 70px;
+ font-size: 30px;
+}
+button.iin2
+{
+ background-color: rgba(0,0,0,0);
+ border: none;
+ position:absolute;
+ bottom: 3px;
+ right: 25px;
+ font-size: 30px;
+}
+
+div.cd
+{
+ border-radius: 100%;
+ background: url(https://longsig.github.io/m/free.jpg);
+ background-size:100% 100%;
+ padding: 40px 42px 40px 42px;
+}
