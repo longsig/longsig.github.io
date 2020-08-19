@@ -55,21 +55,4 @@ div.cd
  background: url(https://longsig.github.io/m/free.jpg);
  background-size:100% 100%;
  padding: 40px 42px 40px 42px;
- animation:ruo 7s linear infinite;
- -webkit-animation:ruo 7s linear infinite;
 }
-
-@keyframes ruo
-{
- 0% {transform: rotate(0deg)}
- 100% {transform: rotate(360deg)}
-}
-
-@-webkit-keyframes ruo
-{
- 0% {transform: rotate(0deg)}
- 100% {transform: rotate(360deg)}
-}
-
-
-
