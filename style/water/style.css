@@ -13,7 +13,7 @@ div.sth1
  position: absolute;
  left: 10%;top: 20%;
  height: 30px;width: 50px;
- background-image:url(https://longsig.github.io/photo/water/wave.svg);
+ background-image:url(https://vince213.github.io/photo/water/wave.svg);
  background-size:100% 100%;
  -webkit-animation: sthm1 1s infinite;
  animation: sthm1 1s linear infinite;
@@ -24,7 +24,7 @@ div.sth2
  position: absolute;
  left: 30%;top: 70%;
  height: 30px;width: 50px;
- background-image:url(https://longsig.github.io/photo/water/wave.svg);
+ background-image:url(https://vince213.github.io/photo/water/wave.svg);
  background-size:100% 100%;
  -webkit-animation: sthm2 1s infinite;
  animation: sthm2 1s linear infinite;
@@ -35,7 +35,7 @@ div.sth3
  position: absolute;
  left: 60%;top: 30%;
  height: 30px;width: 50px;
- background-image:url(https://longsig.github.io/photo/water/wave.svg);
+ background-image:url(https://vince213.github.io/photo/water/wave.svg);
  background-size:100% 100%;
  -webkit-animation: sthm3 1s infinite;
  animation: sthm3 1s linear infinite;
@@ -46,7 +46,7 @@ div.sth4
  position: absolute;
  left: 90%;top: 50%;
  height: 30px;width: 50px;
- background-image:url(https://longsig.github.io/photo/water/sth.svg);
+ background-image:url(https://vince213.github.io/photo/water/sth.svg);
  background-size:100% 100%;
  -webkit-animation: sthm4 1s infinite;
  animation: sthm4 1s linear infinite;
@@ -97,7 +97,7 @@ div.mth
  position: absolute;
  left: 60%;top: 60%;
  height: 100px;width: 120px;
- background-image:url(https://longsig.github.io/photo/water/boat.png);
+ background-image:url(https://vince213.github.io/photo/water/boat.png);
  background-size:100% 100%;
  -webkit-animation: boatm 1s infinite;
  animation: mthm 1s linear infinite;
