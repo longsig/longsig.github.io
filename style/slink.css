@@ -2,8 +2,8 @@
 
 .olink
 {
- width:600px;
- height:400px
+ width:100%;
+ height:auto;
 }
 
 @-webkit-keyframes ballm
@@ -53,6 +53,13 @@ a.slink:before
  left:-20px;
  -webkit-transform:translate(-50%, -50%);
  transform:translate(-50%, -50%);
+}
+
+a.slink:after
+{
+ right:-20px;
+ -webkit-transform:translate(50%, -50%);
+ transform:translate(50%, -50%);
 }
 
 a.slink:hover:before
