@@ -1,20 +1,20 @@
 :before,:after{z-index:-1;}
 
-@-webkit-keyframes ballm
+@-webkit-keyframes ballmr
 {
- 0%{right:-20px;}
- 50%{right:50%;width:20px;height:20px;}
- 100% {right:50%;width:375px;height:375px;}
+ 0%{left:-40px;}
+ 50%{left:50%;width:20px;height:20px;}
+ 100% {left:50%;width:400px;height:400px;}
 }
 
-@keyframes ballm
+@keyframes ballmr
 {
- 0% {right:-20px;}
- 50%{right:50%;width:20px;height:20px;}
- 100%{right:50%;width:375px;height:375px;}
+ 0% {left:-40px;}
+ 50%{left:50%;width:20px;height:20px;}
+ 100%{left:50%;width:400px;height:400px;}
 }
 
-a.slink
+a.slink-r
 {
  position:absolute;
  color:black;
@@ -31,7 +31,7 @@ a.slink
 
 a:hover{color:white;}
 
-a.slink:before,.slink:after
+a.slink-r:before,a.slink-r:after
 {
  position:absolute;
  top:50%;
@@ -42,28 +42,28 @@ a.slink:before,.slink:after
  border-radius:100%;
 }
 
-a.slink:before
+a.slink-r:before
 {
  left:-20px;
  -webkit-transform:translate(-50%, -50%);
  transform:translate(-50%, -50%);
 }
 
-a.slink:after
+a.slink-r:after
 {
  right:-20px;
- -webkit-transform:translate(50%, -50%);
- transform:translate(50%, -50%);
+ -webkit-transform:translate(50%,1000%);
+ transform:translate(50%,1000%);
 }
 
-a.slink:hover:before
+a.slink-r:hover:before
 {
- -webkit-animation:criss-cross-left 1s both;
- animation:criss-cross-left 1s both;
+ -webkit-animation:ballmr 1s both;
+ animation:ballmr 1s both;
 }
 
-a.slink:hover:after 
+a.slink-r:hover:after 
 { 
- -webkit-animation:ballm 1s both;
- animation:ballm 1s both;
+ -webkit-animation:ballmr 1s both;
+ animation:ballmr 1s both;
 }
