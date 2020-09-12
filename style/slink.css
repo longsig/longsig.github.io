@@ -1,11 +1,5 @@
 :before,:after{z-index:-1;}
 
-.olink
-{
- width:100%;
- height:auto;
-}
-
 @-webkit-keyframes ballm
 {
  0%{right:-20px;}
@@ -22,14 +16,14 @@
 
 a.slink
 {
- position:relative;
+ position:absolute;
  color:black;
  display:block;
  overflow:hidden;
  border:1px solid;
  text-align:center;
  text-decoration:none;
- line-height:60px;
+ line-height:50px;
  font-weight:bold;
  max-width:600px;
  width:30%;
