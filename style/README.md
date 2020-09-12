@@ -1,7 +1,7 @@
 # 页面的css储存
 > 主页css(Main Page's CSS/Stlye)
 >
->slink语法=> 
+>*slink*语法=> 
 >
 >`<div class="olink">`
 >
