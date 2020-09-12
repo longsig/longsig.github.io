@@ -3,7 +3,7 @@
 >
 >*slink*语法=> 
 >
->`<div class="olink">`
+>`<div class="olink">`(或者其他width：100%的div)
 >
 >`<a class="slink" herf="#">I'm a link</a>`
 >
