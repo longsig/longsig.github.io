@@ -1,10 +1,6 @@
 :before,:after{z-index:-1;}
 
-.olink
-{
- width:30%;
- max-width:600px;
-}
+.olink{width:30%;max-width:600px;}
 
 @-webkit-keyframes ballm
 {
