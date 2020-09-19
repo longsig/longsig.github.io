@@ -72,24 +72,22 @@ div.sth4
 @-webkit-keyframes sthm4
 {50% {top:48%}}
 
-div.obig
+div.ibig
 {
  position: absolute;
- top: 15%;
- text-align: center;
- -webkit-animation: duckm 1s infinite;
- animation: obigm 1s linear infinite;
+ top:15%;left:29%;
+ width:222px;
+ height:166px;
+ background-image: url(https://vince213.github.io/photo/water/duck.png);
+ background-size:100% 100%;
+ -webkit-animation: bigm 1s infinite;
+ animation: bigm 1s linear infinite;
 }
 
-img.big
-{
- margin: auto;
- width: 30%;
-}
 
-@keyframes obigm
+@keyframes bigm
 {50% {top:18%}}
-@-webkit-keyframes obigm
+@-webkit-keyframes bigm
 {50% {top:12%}}
 
 div.mth
