@@ -1,0 +1,16 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_8">
+   <line stroke="#999999" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_5" y2="63.334706" x2="267.089549" y1="37.945296" x1="117.606964" stroke-width="53" fill="#000"/>
+   <line stroke="#999999" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_6" y2="338.555906" x2="276.999996" y1="363.945316" x1="110.999999" stroke-width="53" fill="#000"/>
+   <line stroke="#999999" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_7" y2="348.71167" x2="191.109451" y1="49.116636" x1="192.761192" stroke-width="53" fill="#000"/>
+  </g>
+  <g stroke="null" id="svg_4">
+   <line stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_1" y2="73.945313" x2="277.08955" y1="48.945313" x1="127.606965" stroke-width="53" fill="none"/>
+   <line stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_2" y2="344.945313" x2="286.999997" y1="369.945313" x1="121" stroke-width="53" fill="none"/>
+   <line stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_3" y2="354.945313" x2="201.109451" y1="59.945313" x1="202.761193" stroke-width="53" fill="none"/>
+  </g>
+ </g>
+</svg>
