@@ -93,3 +93,23 @@ div.lkp-r
  right:-58%;
  width:90%;
 }
+
+div.jr
+{
+ width:90%;
+ position:fixed;
+ bottom:5px;
+ text-align: center;
+}
+
+i.jrhid
+{
+ color:rgba(0,0,0,0.1);
+ font-size:10px;
+ transition: 0.2s;
+}
+
+i.jrhid:hover
+{
+ color:rgba(0,0,0,1);
+}
