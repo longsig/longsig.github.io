@@ -9,15 +9,15 @@ div.olink
 @-webkit-keyframes ballmr
 {
  0%{left:-40px;}
- 50%{left:50%;width:20px;height:20px;}
- 100% {left:50%;width:400px;height:400px;}
+ 1%{left:50%;width:20px;height:20px;}
+ 100% {left:50%;width:400000px;height:400000px;}
 }
 
 @keyframes ballmr
 {
  0% {left:-40px;}
- 50%{left:50%;width:20px;height:20px;}
- 100%{left:50%;width:400px;height:400px;}
+ 1%{left:50%;width:20px;height:20px;}
+ 100%{left:50%;width:400000px;height:400000px;}
 }
 
 a.slink-r
@@ -58,18 +58,18 @@ a.slink-r:before
 a.slink-r:after
 {
  right:-20px;
- -webkit-transform:translate(50%,1000%);
- transform:translate(50%,1000%);
+ -webkit-transform:translate(50%,10000%);
+ transform:translate(50%,10000%);
 }
 
 a.slink-r:hover:before
 {
- -webkit-animation:ballmr 1s both;
- animation:ballmr 1s both;
+ -webkit-animation:ballmr 50s both;
+ animation:ballmr 50s both;
 }
 
 a.slink-r:hover:after 
 { 
- -webkit-animation:ballmr 1s both;
- animation:ballmr 1s both;
+ -webkit-animation:ballmr 50s both;
+ animation:ballmr 50s both;
 }
