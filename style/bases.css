@@ -96,8 +96,8 @@ div.lkp-r
 
 div.jr
 {
- width:90%;
- position:fixed;
+ width:100%;
+ position:absolute;
  bottom:5px;
  text-align: center;
 }
