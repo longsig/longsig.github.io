@@ -1,0 +1,24 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="102" width="102" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <circle id="svg_1" fill="rgba(256,256,256,0)" stroke="black" r="40" cy="50" cx="49.910714"/>
+  <path id="svg_5" fill-opacity="null" stroke-opacity="null" stroke="black" fill="rgba(256,256,256,0)"/>
+  <path id="svg_6" d="m80.22321,33.96903c-6.19047,-13.63095 -23.61607,-22.48512 -41.42857,-15.95239" fill-opacity="null" stroke-opacity="null" stroke="black" fill="rgba(256,256,256,0)"/>
+  <path stroke="black" id="svg_7" d="m16.38393,49.50475c1.90505,-21.73948 9.32883,-24.31142 16.13096,-28.97118" fill-opacity="null" stroke-opacity="null" fill="rgba(256,256,256,0)"/>
+  <path stroke="black" id="svg_8" d="m77.544641,70.308324c-12.02352,18.52837 -52.76937,23.29274 -61.1607,-18.88189" fill-opacity="null" stroke-opacity="null" fill="rgba(256,256,256,0)"/>
+  <path stroke="black" id="svg_9" d="m77.422092,70.39761c-20.59495,14.06408 -39.73366,14.27488 -61.1607,-18.88189" fill-opacity="null" stroke-opacity="null" fill="rgba(256,256,256,0)"/>
+  <line stroke="black" stroke-linecap="null" stroke-linejoin="null" id="svg_10" y2="63.627645" x2="19.955357" y1="56.469031" x1="19.598214" fill-opacity="null" stroke-opacity="null" stroke-width="null" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_11" y2="71.647603" x2="25.223214" y1="63.254746" x1="24.955357" fill-opacity="null" stroke-opacity="null" stroke-width="null" stroke="black" fill="none"/>
+  <line stroke="black" stroke-linecap="null" stroke-linejoin="null" id="svg_12" y2="78.692421" x2="32.141986" y1="71.201174" x1="32.455359" fill-opacity="null" stroke-opacity="null" stroke-width="null" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_13" y2="81.826174" x2="39.866071" y1="75.844031" x1="39.866071" fill-opacity="null" stroke-opacity="null" stroke-width="null" stroke="black" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_14" y2="83.433317" x2="46.473214" y1="78.611889" x1="46.473214" fill-opacity="null" stroke-opacity="null" stroke-width="null" stroke="black" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_15" y2="83.16546" x2="55.223214" y1="79.594031" x1="55.133929" fill-opacity="null" stroke-opacity="null" stroke-width="null" stroke="black" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_17" y2="81.29046" x2="62.901786" y1="77.808317" x1="62.633929" fill-opacity="null" stroke-opacity="null" stroke-width="null" stroke="black" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_18" y2="78.433317" x2="68.973214" y1="75.486889" x1="68.794643" fill-opacity="null" stroke-opacity="null" stroke-width="null" stroke="black" fill="none"/>
+ </g>
+</svg>
