@@ -114,3 +114,29 @@ b{font-size:30px;}
  color:rgba(0,0,0,0.4);
 }
 .b404{font-size:60px;}
+
+b.cr
+{
+ color:black;
+ font-size:10px;
+ background-image:url('https://vince213.github.io/photo/cl_b.svg');
+ background-repeat:no-repeat;
+ background-position:right;
+ background-size:10px 10px;
+ padding-right:10px;
+}
+
+b.cr1
+{
+ color:black;
+ font-size:10px;
+}
+
+div.crdiv
+{
+ position: fixed;
+ bottom: 5px;
+ width:100%;
+ text-align:center;
+}
+
