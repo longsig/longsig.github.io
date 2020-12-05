@@ -1,154 +1,115 @@
-div.bgroud
+html,body
 {
- position: absolute;
- left: 0px;
- bottom: 0px;
- height: 100%;
- width: 100%;
- background-color: rgb(100,180,256);
+ height:100%;
 }
 
-div.sth1
+div.ibgorund
 {
- position: absolute;
- left: 10%;top: 20%;
- height: 30px;width: 50px;
- background-image:url(https://vince213.github.io/photo/water/wave.svg);
- background-size:100% 100%;
- -webkit-animation: sthm1 1s infinite;
- animation: sthm1 1s linear infinite;
+ height:90%; width:90%;
+ position:fixed;
+ left:5%; top:5%;
+ background-color:rgba(256,256,256,0.53);
+ border-radius: 5px;
+ border:2px solid rgba(256,256,256,0.6);
+ position:fixed;
+}
+html,body
+{
+ height:100%;
 }
 
-div.sth2
+div.ibgorund
 {
- position: absolute;
- left: 30%;top: 70%;
- height: 30px;width: 50px;
- background-image:url(https://vince213.github.io/photo/water/wave.svg);
- background-size:100% 100%;
- -webkit-animation: sthm2 1s infinite;
- animation: sthm2 1s linear infinite;
-}
-
-div.sth3
-{
- position: absolute;
- left: 60%;top: 30%;
- height: 30px;width: 50px;
- background-image:url(https://vince213.github.io/photo/water/wave.svg);
- background-size:100% 100%;
- -webkit-animation: sthm3 1s infinite;
- animation: sthm3 1s linear infinite;
-}
-
-div.sth4
-{
- position: absolute;
- left: 90%;top: 50%;
- height: 30px;width: 50px;
- background-image:url(https://vince213.github.io/photo/water/sth.svg);
- background-size:100% 100%;
- -webkit-animation: sthm4 1s infinite;
- animation: sthm4 1s linear infinite;
-}
-
-@keyframes sthm1
-{50% {top:18%}}
-@-webkit-keyframes sthm1
-{50% {top:22%}}
-
-@keyframes sthm2
-{50% {top:72%}}
-@-webkit-keyframes sthm2
-{50% {top:68%}}
-
-@keyframes sthm3
-{50% {top:28%}}
-@-webkit-keyframes sthm3
-{50% {top:32%}}
-
-@keyframes sthm4
-{50% {top:52%}}
-@-webkit-keyframes sthm4
-{50% {top:48%}}
-
-div.ibig
-{
- position: absolute;
- top:15%;left:29%;
- width:222px;
- height:166px;
- background-image: url(https://vince213.github.io/photo/water/duck.png);
- background-size:100% 100%;
- -webkit-animation: bigm 1s infinite;
- animation: bigm 1s linear infinite;
-}
-
-
-@keyframes bigm
-{50% {top:18%}}
-@-webkit-keyframes bigm
-{50% {top:12%}}
-
-div.mth
-{
- position: absolute;
- left: 60%;top: 60%;
- height: 100px;width: 120px;
- background-image:url(https://vince213.github.io/photo/water/boat.png);
- background-size:100% 100%;
- -webkit-animation: boatm 1s infinite;
- animation: mthm 1s linear infinite;
-}
-
-@keyframes mthm
-{50% {top:58%}}
-@-webkit-keyframes mthm
-{50% {top:62%}}
-
-
-
-
-p.p404
-{
- font-size:20px;
- color:black
-}
-
-b.c404
-{
- font-size:40px;
- color:black
-}
-
-h1.b404
-{
- font-size:8vw;
- color:black
-}
-
-
-b.cr
-{
- color:black;
- font-size:10px;
- background-image:url('https://vince213.github.io/photo/cl_b.svg');
- background-repeat:no-repeat;
- background-position:right;
- background-size:10px 10px;
- padding-right:10px;
-}
-
-b.cr1
-{
- color:black;
- font-size:10px;
-}
-
-div.crdiv
-{
- position: fixed;
- bottom: 5px;
- width:100%;
+ height:90%; width:90%;
+ position:fixed;
+ left:5%; top:5%;
+ background-color:rgba(256,256,256,0.53);
+ border-radius: 5px;
+ border:2px solid rgba(256,256,256,0.6);
  text-align:center;
+}
+
+
+div.ott
+{
+ position:absolute;
+ width: 100%;
+ top: 20%;
+}
+
+div.title
+{
+ font-size:50px;
+ margin: auto;
+ width: 50%;
+}
+
+div.ott
+{
+ position:absolute;
+ width:100%;
+ top: 5%;
+}
+
+div.title
+{
+ font-size:50px;
+ margin: auto;
+}
+
+div.btitle
+{
+ margin: auto;
+ height:80px; width:350px;
+ background-image:url(https://vince213.github.io/photo/title.svg);
+ background-size:100% 100%;
+}
+
+div.lkp
+{
+ position:absolute;
+ bottom:35%;
+ width:100%;
+}
+
+div.ikp
+{
+ margin: auto;
+ width:30%
+}
+
+div.lkp-l
+{
+ position:absolute;
+ bottom:35%;
+ left:5%;
+ width:90%;
+}
+
+div.lkp-r
+{
+ position:absolute;
+ bottom:35%;
+ right:-58%;
+ width:90%;
+}
+
+div.jr
+{
+ width:100%;
+ position:absolute;
+ bottom:5px;
+ text-align: center;
+}
+
+i.jrhid
+{
+ color:rgba(0,0,0,0.1);
+ font-size:10px;
+ transition: 0.2s;
+}
+
+i.jrhid:hover
+{
+ color:rgba(0,0,0,1);
 }
