@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -9,6 +7,25 @@
 <link rel="stylesheet" type="text/css" href="https://vince213.github.io/style/water/style.css">
 <link rel="stylesheet" type="text/css" href="https://vince213.github.io/style/slink.css">
 <link rel="stylesheet" type="text/css" href="https://vince213.github.io/style/bases.css">
+<script>
+changfont();
+function changfont()
+{
+ var w=document.documentElement.offsetWidth;
+ var fb=document.getElementById("b404");
+ var fp=document.getElementById("p404");
+ var fc1=document.getElementById("c4041");
+ var fc2=document.getElementById("c4042");
+ fb.style.fontSize=w/7+'px';
+ fp.style.fontSize=w/25+'px';
+ fc1.style.fontSize=w/15+'px';
+ fc2.style.fontSize=w/15+'px';
+}
+window.onresize=function()
+{
+ changfont();
+}
+</script>
 </head>
 
 <body>
@@ -24,13 +41,12 @@
  </div>
  
  <div class="ibgorund">
-   <h1 class="b404">4 0 4</h1>
-   <p class="p404"><b class="c404">/</b>啊偶...你要找的页面不见了...<b class="c404">/</b></p>
+   <h1 class="b404" id="b404">4 0 4</h1>
+   <p class="p404" id="p404"><b class="c404" id="c4041">/</b>啊偶...你要找的页面不见了...<b class="c404" id="c4042">/</b></p>
    
   <div class="jr">
    <i class="jrhid">不会做视频的程序猿 | 不会编程的大鸽子</i>
   </div>
-  
  </div>
 </body>
 </html>
