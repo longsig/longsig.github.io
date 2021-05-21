@@ -64,12 +64,12 @@ a.slink-r:after
 
 a.slink-r:hover:before
 {
- -webkit-animation:ballmr 50s both;
- animation:ballmr 50s both;
+ -webkit-animation:ballmr 100s both;
+ animation:ballmr 100s both;
 }
 
 a.slink-r:hover:after 
 { 
- -webkit-animation:ballmr 50s both;
- animation:ballmr 50s both;
+ -webkit-animation:ballmr 100s both;
+ animation:ballmr 100s both;
 }
