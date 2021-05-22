@@ -51,19 +51,11 @@ div.ott
  top: 5%;
 }
 
-div.title
+.tit1
 {
- font-size:50px;
- margin: auto;
+  font-size: calc(20vh);;
 }
 
-div.btitle
-{
- margin: auto;
- height:80px; width:350px;
- background-image:url(https://vince213.github.io/photo/title.svg);
- background-size:100% 100%;
-}
 
 div.lkp
 {
